@@ -1,4 +1,4 @@
-<h1>Hi, I'm Julio! <br/><a href="https://github.com/Dondoknows610">Sailor</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Student, Cloud Security Student</a>
+<h1>Hi, I'm Julio! <br/>
 
 <h2>👨‍💻 Cyber Security Security Projects:</h2>
 
