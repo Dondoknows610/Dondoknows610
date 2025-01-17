@@ -1,6 +1,6 @@
 <h1>Hi, I'm Julio! <br/>
 
-<h2>👨‍💻 Cyber Security Security Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>PowerShell</b>
 
