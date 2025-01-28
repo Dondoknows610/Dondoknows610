@@ -12,7 +12,7 @@
 
   - [Production and Non-production cost allocation with AWS](https://github.com/Dondoknows610/AWS-Cloud-Quest)
 
-<h2> 📄 Certifications & ✅ Credly Badges </h2>
+<h2> 📄 Certifications & Course Badges </h2>
 
 - [Amazon Cloud Quest: Cloud Practioner](https://www.credly.com/badges/98a95879-c473-4c27-9ec1-b7635d09dbdd)
 - [CompTIA Security+](https://www.credly.com/earner/earned/badge/21bb2ea4-d6a9-4699-9274-1faa91f53595)
