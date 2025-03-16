@@ -22,7 +22,7 @@
 
 - AWS Cloud Quest: Security 
 - Tryhackme's Advent of Cyber 2024 [https://tryhackme.com/r/christmas](URL)
-- [Packts Ethical Hacking Foundations](https://www.coursera.org/learn/packt-ethical-hacking-foundations-cacdd)
+- [Packts Ethical Hacking Foundations]([https://www.coursera.org/learn/packt-ethical-hacking-foundations-cacdd](https://github.com/Dondoknows610/Ethical-Hacking/blob/main/README.md))
 
 <h2> 🤳 Connect with me:</h2>
 
